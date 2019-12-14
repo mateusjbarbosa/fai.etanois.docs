@@ -22,6 +22,6 @@ Documento espelho para o PFC - Projeto Final de Curso.
 
 ## Repositórios relacionados
 
-Aplicação Android: não iniciado
-Aplicação iOS: não iniciado
-API: https://github.com/mateusjbarbosa/etanois-backend
+- Aplicação Android: não iniciado
+- Aplicação iOS: não iniciado
+- API: https://github.com/mateusjbarbosa/etanois-backend
