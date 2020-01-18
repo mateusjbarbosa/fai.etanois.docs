@@ -10,6 +10,8 @@ Documento espelho para o PFC - Projeto Final de Curso.
 
 | REVISÃO | DESCRIÇÃO |
 | -- | -- |
+| 02B | Pequenas correções no texto do escopo do produto |
+|| Correções nos requisitos de credenciamento e preferências do usuário |
 | 02A | Correções em alguns requisitos |
 || Adição de 1 (um) requisito funcional |
 || Adição do arquivo de lista de possíveis requisitos funcionais |
