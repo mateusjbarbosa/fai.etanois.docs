@@ -1,10 +1,11 @@
+
 # Documentação sobre o projeto Etanóis
 Repositório destinado ao controle de versionamento dos documentos relacionados ao projeto Etanóis.
 
 ## Controle de versão dos arquivos
 Como forma controle na revisão dos arquivos presentes neste repositório, será informado aqui as revisões em que os documentos se encontram.
 
-## Proposta de Projeto
+### Proposta de Projeto
 Documento espelho para o PFC - Projeto Final de Curso.
 
 | REVISÃO | DESCRIÇÃO |
@@ -20,12 +21,19 @@ Documento espelho para o PFC - Projeto Final de Curso.
 || Definição completa, sem revisão dos demais membros |
 || 12 (doze) Requisitos Funcionais |
 
+### Wireframe
+Artefato responsável por dar suporte na criação a interface de usuário antes do desenvolvimento, com o objetivo de validar os requisitos funcionais e a experiência com o usuário.
+
+| REVISÃO | DESCRIÇÃO |
+| -- | -- |
+| 01 | Criação da referência de design do projeto |
+|| Criação da interação para cadastro de usuário |
+
 ## Repositórios relacionados
 
-- Aplicação Android: não iniciado
-- Aplicação iOS: não iniciado
-- API: https://github.com/mateusjbarbosa/etanois-backend
+- Aplicação: não iniciado
+- API: https://github.com/mateusjbarbosa/fai.etanois.backend
 
 ## Links úteis
 
-- Wireframe do projeto: http://bit.ly/etanois
+- Wireframe do projeto: http://bit.ly/wire-etanois
