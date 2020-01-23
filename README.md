@@ -10,6 +10,8 @@ Documento espelho para o PFC - Projeto Final de Curso.
 
 | REVISÃO | DESCRIÇÃO |
 | -- | -- |
+| 02D | Correção no valor do Etacoin e adição da possibilidade de recarga |
+| 02C | Adição da funcionalidade de débito no saldo de repasse referente ao pagamento em Etacoins |
 | 02B | Pequenas correções no texto do escopo do produto |
 || Correções nos requisitos de credenciamento e preferências do usuário |
 | 02A | Correções em alguns requisitos |
