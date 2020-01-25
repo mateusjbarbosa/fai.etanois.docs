@@ -30,6 +30,8 @@ Artefato responsável por dar suporte na criação a interface de usuário antes
 
 | REVISÃO | DESCRIÇÃO |
 | -- | -- |
+| 02 | Redesign da interface |
+|| Criação de uma nova paleta |
 | 01.1 | Criação das preferências de usuário |
 || Criação do menu e início do Dark Mode |
 | 01 | Criação da referência de design do projeto |
