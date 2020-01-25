@@ -30,6 +30,7 @@ Artefato responsável por dar suporte na criação a interface de usuário antes
 
 | REVISÃO | DESCRIÇÃO |
 | -- | -- |
+| 02.01 | Criação das telas de radar (modo dia e noite) |
 | 02 | Redesign da interface |
 || Criação de uma nova paleta |
 | 01.1 | Criação das preferências de usuário |
