@@ -25,6 +25,17 @@ Documento espelho para o PFC - Projeto Final de Curso.
 || Definição completa, sem revisão dos demais membros |
 || 12 (doze) Requisitos Funcionais |
 
+### Apresentação da proposta
+Documento para organização da ideia para entrega no dia 21/02/2020 e apresentação no dia 22/02/2020.
+
+| REVISÃO | DESCRIÇÃO |
+| -- | -- |
+| 01A | Correções a partir do exemplo concedido para consulta |
+| 01 | Mais algumas correções e finalização da primeira versão do documento |
+| 00B | Algumas correções e adição de informações no documento |
+| 00A | Continuação do preenchimento do documento |
+| 00 | Início do preenchimento do documento |
+
 ### Wireframe
 Artefato responsável por dar suporte na criação a interface de usuário antes do desenvolvimento, com o objetivo de validar os requisitos funcionais e a experiência com o usuário.
 
