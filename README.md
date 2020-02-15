@@ -10,7 +10,8 @@ Documento espelho para o PFC - Projeto Final de Curso.
 
 | REVISÃO | DESCRIÇÃO |
 | -- | -- |
-| 03D | Adição de novas notícias |
+| 03 | Início da adição da pesquisa de valores dos postos de combustível |
+| 02E | Adição de novas notícias |
 | 02D | Correção no valor do Etacoin e adição da possibilidade de recarga |
 | 02C | Adição da funcionalidade de débito no saldo de repasse referente ao pagamento em Etacoins |
 | 02B | Pequenas correções no texto do escopo do produto |
