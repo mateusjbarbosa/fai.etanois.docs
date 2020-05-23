@@ -6748,9 +6748,6 @@
 										"$ref": "AAAAAAFyQVQ0yAmzH6Y="
 									},
 									"name": "Lifeline4",
-									"represent": {
-										"$ref": "AAAAAAFyQYgrIBJMtEU="
-									},
 									"isMultiInstance": false
 								},
 								{
@@ -6761,9 +6758,6 @@
 									},
 									"name": "redis",
 									"stereotype": "Database",
-									"represent": {
-										"$ref": "AAAAAAFyQYh9gxKeCDY="
-									},
 									"isMultiInstance": false
 								},
 								{
@@ -6774,9 +6768,6 @@
 									},
 									"name": "redis",
 									"stereotype": "Database",
-									"represent": {
-										"$ref": "AAAAAAFyQY1PghOyTkg="
-									},
 									"isMultiInstance": false
 								},
 								{
@@ -6787,9 +6778,6 @@
 									},
 									"name": "nodemailer",
 									"stereotype": "Util",
-									"represent": {
-										"$ref": "AAAAAAFyQY+0YxQZWo8="
-									},
 									"isMultiInstance": false
 								}
 							],
@@ -6822,43 +6810,6 @@
 									]
 								}
 							]
-						}
-					],
-					"attributes": [
-						{
-							"_type": "UMLAttribute",
-							"_id": "AAAAAAFyQYgrIBJMtEU=",
-							"_parent": {
-								"$ref": "AAAAAAFyQVQ0xwmyuUw="
-							},
-							"name": "Role1",
-							"type": ""
-						},
-						{
-							"_type": "UMLAttribute",
-							"_id": "AAAAAAFyQYh9gxKeCDY=",
-							"_parent": {
-								"$ref": "AAAAAAFyQVQ0xwmyuUw="
-							},
-							"name": "Role2"
-						},
-						{
-							"_type": "UMLAttribute",
-							"_id": "AAAAAAFyQY1PghOyTkg=",
-							"_parent": {
-								"$ref": "AAAAAAFyQVQ0xwmyuUw="
-							},
-							"name": "Role3",
-							"type": ""
-						},
-						{
-							"_type": "UMLAttribute",
-							"_id": "AAAAAAFyQY+0YxQZWo8=",
-							"_parent": {
-								"$ref": "AAAAAAFyQVQ0xwmyuUw="
-							},
-							"name": "Role4",
-							"type": ""
 						}
 					]
 				}
