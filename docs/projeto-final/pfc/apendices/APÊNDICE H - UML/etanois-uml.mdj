@@ -4165,7 +4165,7 @@
 															"top": 165,
 															"width": 131.3671875,
 															"height": 13,
-															"text": "postgres"
+															"text": "sequelize"
 														},
 														{
 															"_type": "LabelView",
@@ -6770,7 +6770,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFyQVQ0yAmzH6Y="
 									},
-									"name": "postgres",
+									"name": "sequelize",
 									"stereotype": "Database",
 									"isMultiInstance": false
 								},
