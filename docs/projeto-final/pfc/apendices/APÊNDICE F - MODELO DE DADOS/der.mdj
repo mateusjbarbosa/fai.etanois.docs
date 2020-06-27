@@ -533,7 +533,7 @@
 												"$ref": "AAAAAAFyaFcZcxBl3Uo="
 											},
 											"edgePosition": 1,
-											"text": "contains"
+											"text": "can pay"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1646,7 +1646,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFyaE0b/A8iFRg="
 									},
-									"name": "contains",
+									"name": "can pay",
 									"end1": {
 										"_type": "ERDRelationshipEnd",
 										"_id": "AAAAAAFyaFcZcxBisQo=",
