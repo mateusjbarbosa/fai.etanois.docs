@@ -5,9 +5,10 @@ Repositório destinado ao controle de versionamento dos documentos relacionados 
 ## Repositórios relacionados
 
 - API: https://github.com/mateusjbarbosa/fai.etanois.backend
-- Aplicação Mobile: não iniciado
-- Aplicação Web: não iniciado
+- Aplicação Mobile: https://github.com/mateusjbarbosa/fai.etanois.mobile
+- Aplicação Web: https://github.com/mateusjbarbosa/fai.etanois.web
 
 ## Links úteis
 
-- Wireframe do projeto: http://bit.ly/wire-etanois
+- Wireframe do projeto mobile: http://bit.ly/wire-etanois
+- Wireframe do projeto web: http://bit.ly/wire-etanois-web
