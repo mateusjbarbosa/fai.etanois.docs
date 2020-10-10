@@ -1801,7 +1801,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFyaE0b/A8iFRg="
 									},
-									"name": "cep",
+									"name": "zip_code",
 									"length": 0
 								},
 								{
@@ -1828,7 +1828,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFyaE0b/A8iFRg="
 									},
-									"name": "date_acceptance_therms_use",
+									"name": "date_acceptance_terms_use",
 									"length": 0
 								},
 								{
