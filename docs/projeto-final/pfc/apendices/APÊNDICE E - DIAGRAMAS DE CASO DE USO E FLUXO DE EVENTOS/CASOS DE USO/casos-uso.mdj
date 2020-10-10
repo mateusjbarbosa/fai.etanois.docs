@@ -8906,97 +8906,97 @@
 						},
 						{
 							"_type": "UMLIncludeView",
-							"_id": "AAAAAAFy9x6B4SG4jnE=",
+							"_id": "AAAAAAF1FIRCXOwlCsw=",
 							"_parent": {
 								"$ref": "AAAAAAFyZmi1gRsRCc8="
 							},
 							"model": {
-								"$ref": "AAAAAAFy9x6B4SG2Ep8="
+								"$ref": "AAAAAAF1FIRCXOwjKfs="
 							},
 							"subViews": [
 								{
 									"_type": "EdgeLabelView",
-									"_id": "AAAAAAFy9x6B4SG5KTE=",
+									"_id": "AAAAAAF1FIRCXOwmJFk=",
 									"_parent": {
-										"$ref": "AAAAAAFy9x6B4SG4jnE="
+										"$ref": "AAAAAAF1FIRCXOwlCsw="
 									},
 									"model": {
-										"$ref": "AAAAAAFy9x6B4SG2Ep8="
-									},
-									"visible": false,
-									"font": "Arial;13;0",
-									"left": 773,
-									"top": 436,
-									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 15,
-									"hostEdge": {
-										"$ref": "AAAAAAFy9x6B4SG4jnE="
-									},
-									"edgePosition": 1
-								},
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAFy9x6B4SG6o40=",
-									"_parent": {
-										"$ref": "AAAAAAFy9x6B4SG4jnE="
-									},
-									"model": {
-										"$ref": "AAAAAAFy9x6B4SG2Ep8="
-									},
-									"font": "Arial;13;0",
-									"left": 754,
-									"top": 449,
-									"width": 55.65625,
-									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 30,
-									"hostEdge": {
-										"$ref": "AAAAAAFy9x6B4SG4jnE="
-									},
-									"edgePosition": 1,
-									"text": "«include»"
-								},
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAFy9x6B4iG746I=",
-									"_parent": {
-										"$ref": "AAAAAAFy9x6B4SG4jnE="
-									},
-									"model": {
-										"$ref": "AAAAAAFy9x6B4SG2Ep8="
+										"$ref": "AAAAAAF1FIRCXOwjKfs="
 									},
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 758,
 									"top": 411,
 									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF1FIRCXOwlCsw="
+									},
+									"edgePosition": 1
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF1FIRCXewnv7w=",
+									"_parent": {
+										"$ref": "AAAAAAF1FIRCXOwlCsw="
+									},
+									"model": {
+										"$ref": "AAAAAAF1FIRCXOwjKfs="
+									},
+									"font": "Arial;13;0",
+									"left": 723,
+									"top": 398,
+									"width": 55.65625,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 30,
+									"hostEdge": {
+										"$ref": "AAAAAAF1FIRCXOwlCsw="
+									},
+									"edgePosition": 1,
+									"text": "«include»"
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF1FIRCXewoVv8=",
+									"_parent": {
+										"$ref": "AAAAAAF1FIRCXOwlCsw="
+									},
+									"model": {
+										"$ref": "AAAAAAF1FIRCXOwjKfs="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 773,
+									"top": 436,
+									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
 									"hostEdge": {
-										"$ref": "AAAAAAFy9x6B4SG4jnE="
+										"$ref": "AAAAAAF1FIRCXOwlCsw="
 									},
 									"edgePosition": 1
 								}
 							],
 							"font": "Arial;13;0",
 							"head": {
-								"$ref": "AAAAAAFyZmrcNxvDrbA="
-							},
-							"tail": {
 								"$ref": "AAAAAAFyZmu7Kx0Hulk="
 							},
+							"tail": {
+								"$ref": "AAAAAAFyZmrcNxvDrbA="
+							},
 							"lineStyle": 1,
-							"points": "842:384;690:476",
+							"points": "690:476;842:384",
 							"showVisibility": true,
 							"nameLabel": {
-								"$ref": "AAAAAAFy9x6B4SG5KTE="
+								"$ref": "AAAAAAF1FIRCXOwmJFk="
 							},
 							"stereotypeLabel": {
-								"$ref": "AAAAAAFy9x6B4SG6o40="
+								"$ref": "AAAAAAF1FIRCXewnv7w="
 							},
 							"propertyLabel": {
-								"$ref": "AAAAAAFy9x6B4iG746I="
+								"$ref": "AAAAAAF1FIRCXewoVv8="
 							}
 						}
 					]
@@ -9126,7 +9126,22 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Cadastrar usuário"
+					"name": "Cadastrar usuário",
+					"ownedElements": [
+						{
+							"_type": "UMLInclude",
+							"_id": "AAAAAAF1FIRCXOwjKfs=",
+							"_parent": {
+								"$ref": "AAAAAAFyZmrcNxvBxno="
+							},
+							"source": {
+								"$ref": "AAAAAAFyZmrcNxvBxno="
+							},
+							"target": {
+								"$ref": "AAAAAAFyZmu7Kx0F1t4="
+							}
+						}
+					]
 				},
 				{
 					"_type": "UMLUseCase",
@@ -24497,7 +24512,7 @@
 									"font": "Arial;13;0",
 									"left": 380,
 									"top": 598.5,
-									"width": 95.998046875,
+									"width": 95,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyZq5kUkn2x60="
@@ -24649,9 +24664,9 @@
 											},
 											"font": "Arial;13;1",
 											"left": 607,
-											"top": 589,
+											"top": 602,
 											"width": 115,
-											"height": 65,
+											"height": 39,
 											"text": "Apresentar manual de utilização sensível ao contexto",
 											"wordWrap": true
 										},
@@ -24683,9 +24698,9 @@
 									],
 									"font": "Arial;13;0",
 									"left": 602,
-									"top": 582,
+									"top": 595,
 									"width": 125,
-									"height": 77,
+									"height": 51,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyZq5+2EokoCs="
 									},
@@ -26306,7 +26321,7 @@
 									"font": "Arial;13;0",
 									"left": 292,
 									"top": 522.5,
-									"width": 95.998046875,
+									"width": 95,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyaD9nRySAOA8="
@@ -26467,9 +26482,9 @@
 											},
 											"font": "Arial;13;1",
 											"left": 590.5,
-											"top": 345,
+											"top": 351.5,
 											"width": 154,
-											"height": 39,
+											"height": 26,
 											"text": "Visualizar gastos do motorista no mês corrente",
 											"wordWrap": true
 										},
@@ -26499,9 +26514,9 @@
 									],
 									"font": "Arial;13;0",
 									"left": 585.5,
-									"top": 338,
+									"top": 344.5,
 									"width": 164,
-									"height": 51,
+									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyaD+hxySv5fs="
 									},
@@ -27023,9 +27038,9 @@
 											},
 											"font": "Arial;13;1",
 											"left": 590.5,
-											"top": 657,
+											"top": 663.5,
 											"width": 154,
-											"height": 39,
+											"height": 26,
 											"text": "Apagar veículo da lista de veículos proprietários",
 											"wordWrap": true
 										},
@@ -27057,9 +27072,9 @@
 									],
 									"font": "Arial;13;0",
 									"left": 585.5,
-									"top": 650,
+									"top": 656.5,
 									"width": 164,
-									"height": 51,
+									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyaEALJSU5ksQ="
 									},
@@ -28628,7 +28643,7 @@
 									"font": "Arial;13;0",
 									"left": 324,
 									"top": 438.5,
-									"width": 95.998046875,
+									"width": 95,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyaEO8Cie9pMg="
@@ -29059,9 +29074,9 @@
 											},
 											"font": "Arial;13;1",
 											"left": 580,
-											"top": 426.5,
+											"top": 433,
 											"width": 177,
-											"height": 52,
+											"height": 39,
 											"text": "Notificar postos de combustível para atualização dos preços semanalmente",
 											"wordWrap": true
 										},
@@ -29093,9 +29108,9 @@
 									],
 									"font": "Arial;13;0",
 									"left": 575,
-									"top": 419.5,
+									"top": 426,
 									"width": 187,
-									"height": 64,
+									"height": 51,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyaEQtGCiUfMg="
 									},
